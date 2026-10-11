@@ -1,6 +1,6 @@
 # Team Vexor Studio
 
-Two developers building small, useful projects.
+One developer building small projects.
 
 ## Projects
 
