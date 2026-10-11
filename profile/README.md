@@ -1,10 +1,8 @@
-# Team Vexor Studio
-
-One developer building small projects.
+Building small projects from scratch.
 
 ## Projects
 
-- **[TVS-animator](https://github.com/TeamVexorStudio/TVS-animator)** - A small (and buggy..) animating/drawing software.
+- **[TVS-animator](https://github.com/TeamVexorStudio/TVS-animator)** - a small animating and drawing tool. Buggy, but ours.
 
 ## Members
 
