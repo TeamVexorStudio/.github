@@ -7,5 +7,5 @@ Building small projects from scratch.
 
 ## Members
 
-- [[@Vexor] Chicken](https://github.com/VexorChicken)
+- [[Vexor] Chicken](https://github.com/VexorChicken)
 - [LowQualityCoding](https://github.com/BlaiseTara)
